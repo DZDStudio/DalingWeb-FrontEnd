@@ -1,0 +1,24 @@
+{
+  "name": "daling-online-web-frontend",
+  "version": "0.1.2",
+  "description": "DalingOnlineWeb 动漫网站前端",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "element-plus": "^2.7.6",
+    "mdui": "^2.1.1",
+    "vue": "^3.4.29",
+    "vue-router": "^4.3.3",
+    "vue-turnstile": "^1.0.9"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1"
+  }
+}
